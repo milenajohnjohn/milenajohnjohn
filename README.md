@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou a Milena</h1>
 <h3 align="center">Meu hiperfoco é em Ciência e Análise de Dados 👀.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Machine Learning.**
+- 🌱 Atualmente estou aprendendo **Java**
 
 - 💬 Me pergunte sobre **Python e SQL.**
 
