@@ -48,14 +48,14 @@ Olá! Eu sou a Milena, apaixonada por Ciência e Análise de Dados. Meu hiperfoc
 
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MILENAJOHNJOHN&theme=transparent&bg_color=000&border_color=FF1493&show_icons=true&icon_color=30A3DC&title_color=A020F0&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MILENAJOHNJOHN&layout=compact&bg_color=000&border_color=FF1493&title_color=A020F0&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=MILENAJOHNJOHN&repo=ANALISE-PYTHON-VENDAS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FF1493&text_color=FFF)](https://github.com/milenajohnjohn/analise-python-vendas)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=MILENAJOHNJOHN&repo=SOMAMULTIPLOS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FF1493&text_color=FFF)](https://github.com/milenajohnjohn/SomaMultiplos)
 
-### Meus Principais Artigos na DIO
+
 <table>
   <thead>
     <tr align="left">
@@ -66,43 +66,32 @@ Olá! Eu sou a Milena, apaixonada por Ciência e Análise de Dados. Meu hiperfoc
   </thead>
   <tbody align="left">
     <tr>
-      <td>14/12/2022</td>
-      <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
+      <td>23/06/2023</td>
+      <td>Começando a Aprender Java: Um Guia Rápido para Iniciantes em Ciência da Computação</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        <a href="https://web.dio.me/articles/comecando-a-aprender-java-um-guia-rapido-para-iniciantes-em-ciencia-da-computacao?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-FF1493?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
-      <td>21/10/2022</td>
-      <td>Crie Seu Próprio Web Component</td>
+      <td>21/06/2023</td>
+      <td>Explorando os Modelos de Serviço na Nuvem no Bootcamp DIO - Nexa Resources</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        <a href="https://web.dio.me/articles/explorando-os-modelos-de-servico-na-nuvem-no-bootcamp-dio-nexa-resources?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-836FFF?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
-      <td>30/06/2022</td>
-      <td>Destrave seu Primeiro Desafio de Código</td>
+      <td>20/06/2023</td>
+      <td>Computação em Nuvem: Explorando a Capacidade e Flexibilidade da Amazon Web Services (AWS)</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>21/04/2022</td>
-      <td>5 Dicas para Melhorar seu Profile README do GitHub</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        <a href="https://web.dio.me/articles/computacao-em-nuvem-explorando-a-capacidade-e-flexibilidade-da-amazon-web-services-aws?back=%2Farticles&page=1&order=oldest">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-FF1493?style=for-the-badge">
         </a>
       </td>    
     </tr>
   </tbody>
-  <tfoot></tfoot>
 </table>
 
----
