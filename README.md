@@ -1,10 +1,11 @@
 <h1>
-   
+   ## :star2: Milena Johnston :star2:
+
     
 </h1
 
 
-# Milena Johnston
+
 Olá! Eu sou a Milena, apaixonada por Ciência e Análise de Dados. Meu hiperfoco é direcionado para essas áreas e a cada dia eu me esforço para aprender mais e mais. 🧠💡
 🌱 Atualmente, estou mergulhando no mundo do Java e Python, adicionando mais habilidades ao meu repertório de programação. Adoro a sensação de desvendar novos desafios e as infinitas possibilidades que a programação oferece. 🌱💻
 
@@ -48,8 +49,8 @@ Olá! Eu sou a Milena, apaixonada por Ciência e Análise de Dados. Meu hiperfoc
 
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MILENAJOHNJOHN&theme=transparent&bg_color=000&border_color=FF1493&show_icons=true&icon_color=30A3DC&title_color=A020F0&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MILENAJOHNJOHN&layout=compact&bg_color=000&border_color=FF1493&title_color=A020F0&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MILENAJOHNJOHN&theme=transparent&bg_color=000&border_color=FF1493&show_icons=true&icon_color=30A3DC&title_color=00FFFF&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MILENAJOHNJOHN&layout=compact&bg_color=000&border_color=FF1493&title_color=00FFFF&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=MILENAJOHNJOHN&repo=ANALISE-PYTHON-VENDAS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FF1493&text_color=FFF)](https://github.com/milenajohnjohn/analise-python-vendas)
